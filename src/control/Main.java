@@ -9,6 +9,7 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Holiiiii");
+		System.out.println("A ver ahora como lo hacemos");
 		String s;
 		int numero;
 		InputStreamReader isr= new InputStreamReader(System.in);
